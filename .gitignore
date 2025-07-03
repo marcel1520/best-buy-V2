@@ -1,0 +1,4 @@
+.idea
+__pycache__
+.pytest_cache
+product_2_step_1.py
